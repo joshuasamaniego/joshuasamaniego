@@ -1,4 +1,8 @@
 # Welcome to my GitHub! 👋
+
+- Hi, I'm Joshua and I'm a Fullstack Web Developer! I enjoy working with people, life-long learning 
+and breathing life into new ideas. That's why I love working in technology!
+
 ## Here is what I'm working on:
 
 - 🔭 I’m currently working on - The Blue Witness Project by Human Rights First

@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-- Hi, I'm Joshua and I'm a Fullstack Web Developer! I enjoy working with people, life-long learning 
+- Hi, I'm Josh and I'm a Fullstack Web Developer! I enjoy working with people, life-long learning 
 and breathing life into new ideas. That's why I love working in technology!
 
 ## Here is what I'm working on:
@@ -9,7 +9,7 @@ and breathing life into new ideas. That's why I love working in technology!
 - 🌱 I’m currently learning - Ant Design
 - 👯 I’m looking to collaborate on - Job Searching Tips/Tactics
 - 🤔 I’m looking for help with - Design Patterns: Elements of Reusable Object-Oriented Software
-- 💬 Ask me about - Tech (obviously) but also, Coffee, Music and Travel!
+- 💬 Ask me about - Coffee, Music and Travel, but really ANYTHING!
 - 📫 How to reach me - joshuadsamaniego@gmail.com 
 - 😄 Pronouns - He/Him
 - ⚡ Fun fact - I was an Alaskan Crabber (yeah, just like Deadliest Catch, but better!)

@@ -3,7 +3,7 @@
 - Hi, I'm Josh and I'm a Fullstack Web Developer! I enjoy working with people, life-long learning 
 and breathing life into new ideas. That's why I love working in technology!
 
-## Here is what I'm working on:
+## Here is what I've been working on lately:
 
 - 🔭 I’m currently working on - The Blue Witness Project by Human Rights First
 - 🌱 I’m currently learning - Ant Design

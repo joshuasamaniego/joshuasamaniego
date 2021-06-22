@@ -17,5 +17,5 @@ and breathing life into new ideas. That's why I love working in technology!
 
 
 <a href="https://github.com/joshuasamaniego">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuasamaniego&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuasamaniego&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>

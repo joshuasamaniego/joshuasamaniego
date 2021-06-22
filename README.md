@@ -13,3 +13,9 @@ and breathing life into new ideas. That's why I love working in technology!
 - 📫 How to reach me - joshuadsamaniego@gmail.com 
 - 😄 Pronouns - He/Him
 - ⚡ Fun fact - I was an Alaskan Crabber (yeah, just like Deadliest Catch, but better!)
+
+
+
+<a href="https://github.com/joshuasamaniego">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuasamaniego&show_icons=true&hide_border=true&theme=dark" />
+</a>

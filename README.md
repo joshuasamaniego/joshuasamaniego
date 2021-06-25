@@ -6,7 +6,7 @@ and breathing life into new ideas. That's why I love working in technology!
 ## Here is what I've been working on lately:
 
 - 🔭 I’m currently working on - The Blue Witness Project by Human Rights First
-- 🌱 I’m currently learning - Ant Design
+- 🌱 I’m currently learning - Cryptocurrency/Block Chain Technologies
 - 👯 I’m looking to collaborate on - Job Searching Tips/Tactics
 - 🤔 I’m looking for help with - Design Patterns: Elements of Reusable Object-Oriented Software
 - 💬 Ask me about - Coffee, Music and Travel, but really ANYTHING!
